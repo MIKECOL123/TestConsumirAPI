@@ -1,0 +1,10 @@
+C:\Users\Michael\source\repos\TestConsumirAPI\TestConsumirAPI\bin\Debug\TestConsumirAPI.exe.config
+C:\Users\Michael\source\repos\TestConsumirAPI\TestConsumirAPI\bin\Debug\TestConsumirAPI.exe
+C:\Users\Michael\source\repos\TestConsumirAPI\TestConsumirAPI\bin\Debug\TestConsumirAPI.pdb
+C:\Users\Michael\source\repos\TestConsumirAPI\TestConsumirAPI\obj\Debug\TestConsumirAPI.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\TestConsumirAPI\TestConsumirAPI\obj\Debug\TestConsumirAPI.Form1.resources
+C:\Users\Michael\source\repos\TestConsumirAPI\TestConsumirAPI\obj\Debug\TestConsumirAPI.Properties.Resources.resources
+C:\Users\Michael\source\repos\TestConsumirAPI\TestConsumirAPI\obj\Debug\TestConsumirAPI.csproj.GenerateResource.cache
+C:\Users\Michael\source\repos\TestConsumirAPI\TestConsumirAPI\obj\Debug\TestConsumirAPI.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\TestConsumirAPI\TestConsumirAPI\obj\Debug\TestConsumirAPI.exe
+C:\Users\Michael\source\repos\TestConsumirAPI\TestConsumirAPI\obj\Debug\TestConsumirAPI.pdb
